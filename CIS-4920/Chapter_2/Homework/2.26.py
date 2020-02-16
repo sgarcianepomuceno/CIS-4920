@@ -12,9 +12,13 @@ radius = eval(input("Enter the radius of the circle: "))
 # Compute area.
 area = PI * radius ** 2
 
+turtle.dot()
+#turtle.circle(50)
+
+
 # Display circle using the 
 turtle.penup()
-turtle.goto(x, y)
+turtle.goto(x // 2, y // 2)
 turtle.pendown()
 turtle.write("Area")
 turtle.circle(radius)
