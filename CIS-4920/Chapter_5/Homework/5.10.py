@@ -1,2 +1,2 @@
-students = eval(input("Enter the number of"))
+print("Pattern A")
 
