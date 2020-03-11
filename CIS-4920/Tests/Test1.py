@@ -1,4 +1,3 @@
-
 # This prints the number associated to the character
 print(ord('A'))
 

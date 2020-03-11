@@ -1,3 +1,4 @@
+
 print("\tMultiplication Table")
 
 print(" |", end = '')

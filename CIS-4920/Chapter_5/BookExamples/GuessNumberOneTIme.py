@@ -1,5 +1,4 @@
 import random
-
 # Generate a random number to be guessed
 number = random.randint(0, 100)
 

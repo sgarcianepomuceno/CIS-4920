@@ -10,4 +10,3 @@ while k <= n1 and k <= n2:
     k += 1
     
 print("The greatest common divisor for", n1, "and", n2, "is", gcd)
-    

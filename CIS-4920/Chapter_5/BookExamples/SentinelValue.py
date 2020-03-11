@@ -1,3 +1,4 @@
+
 data = eval(input("Enter an integer (the input ends " + "if it is 0): "))
 
 # Keep reading the data until the input is 0

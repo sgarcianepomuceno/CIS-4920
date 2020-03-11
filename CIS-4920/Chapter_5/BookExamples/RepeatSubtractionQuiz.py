@@ -1,3 +1,4 @@
+
 import random
 
 # Generate two random single-digit integers.
